@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="deezer-sdk-0.10.16">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/deezer-sdk-0.10.16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
