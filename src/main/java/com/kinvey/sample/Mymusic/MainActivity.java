@@ -19,7 +19,6 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
-
 import com.google.api.client.http.HttpTransport;
 import com.kinvey.android.Client;
 import com.kinvey.sample.Mymusic.fragments.LoginFragment;
@@ -37,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
     private static final Level LOGGING_LEVEL = Level.FINEST;
     private Context context;
 
-    public static final String TAG = "Kinvey - StatusShare";
+    public static final String TAG = "StatusShare";
 
     public static final String COL_UPDATES = "Updates";
     public static final String COL_COMMENTS = "Comments";
